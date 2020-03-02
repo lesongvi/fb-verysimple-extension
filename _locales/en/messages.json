@@ -1,0 +1,371 @@
+{
+  "appName": {
+    "message": "J2TEAM Security"
+  },
+  "appShortName": {
+    "message": "J2TEAM"
+  },
+  "appDescription": {
+    "message": "Protect you from phishing and malware websites with real-time protection technology."
+  },
+  "blockPageTitle": {
+    "message": "Security error"
+  },
+  "blockPageHeading": {
+    "message": "The site ahead contains harmful programs"
+  },
+  "blockPageP1": {
+    "message": "Attackers on"
+  },
+  "blockPageP2": {
+    "message": "the page that you has just click"
+  },
+  "blockPageP3": {
+    "message": "might attempt to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit)."
+  },
+  "blockPageP4": {
+    "message": "Because you are using"
+  },
+  "blockPageP5": {
+    "message": ", this site has been blocked to keep you safe!"
+  },
+  "blockedUrl": {
+    "message": "Blocked URL: "
+  },
+  "security": {
+    "message": "Security"
+  },
+  "realtime": {
+    "message": "Real-time protection"
+  },
+  "onlinedb": {
+    "message": "Use online database"
+  },
+  "privacy": {
+    "message": "Facebook Privacy"
+  },
+  "blockSeen": {
+    "message": "Block the \"seen\" feature of the chat"
+  },
+  "blockSeenStoryFB": {
+    "message": "Block the \"seen\" feature of the story on Facebook"
+  },
+  "blockSeenStoryInstagram": {
+    "message": "Block the \"seen\" feature of the story on Instagram"
+  },
+  "blockTypingChat": {
+    "message": "Block the typing indicator of the chat"
+  },
+  "toggleBlockSeen": {
+    "message": "Toggle the \"seen\" feature"
+  },
+  "toggleBlockTypingChat": {
+    "message": "Toggle the typing indicator"
+  },
+  "blockTypingComment": {
+    "message": "Block the typing indicator of comments"
+  },
+  "rateMe": {
+    "message": "Please rate me on Chrome Store"
+  },
+  "antiClickjacking": {
+    "message": "Anti-Clickjacking"
+  },
+  "context_menu_report_abuse": {
+    "message": "Report abuse..."
+  },
+  "context_menu_report_phishing": {
+    "message": "Phishing"
+  },
+  "context_menu_report_badware": {
+    "message": "Badware"
+  },
+  "context_menu_report_webspam": {
+    "message": "Webspam"
+  },
+  "context_menu_donate": {
+    "message": "Donate"
+  },
+  "context_menu_rate_me": {
+    "message": "Rate me on Chrome Store"
+  },
+  "extraFeatures": {
+    "message": "Extra features"
+  },
+  "facebookDarkTheme": {
+    "message": "Facebook Dark Theme (by pierO'nMu)"
+  },
+  "context_menu_report_suggest": {
+    "message": "Report or suggest"
+  },
+  "googleDarkTheme": {
+    "message": "Google Dark Theme (by Nass O)"
+  },
+  "hideActiveTime": {
+    "message": "Hide active time in chat"
+  },
+  "blockFacebookPixel": {
+    "message": "Block Facebook Pixel (tracking script)"
+  },
+  "tools": {
+    "message": "Tools"
+  },
+  "facebookSecurityTester": {
+    "message": "Facebook security tester"
+  },
+  "checking": {
+    "message": "Checking..."
+  },
+  "safe": {
+    "message": "Safe"
+  },
+  "notSafe": {
+    "message": "Not safe"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "message": {
+    "message": "Message"
+  },
+  "upgradePremiumMessage": {
+    "message": "This feature is only available for premium users!"
+  },
+  "error": {
+    "message": "Error"
+  },
+  "context_menu_faq": {
+    "message": "Frequently Asked Questions"
+  },
+  "facebookObjectsRanking": {
+    "message": "Facebook objects ranking"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "type": {
+    "message": "Type"
+  },
+  "score": {
+    "message": "Score"
+  },
+  "darkThemeEditor": {
+    "message": "Dark Theme Editor"
+  },
+  "customCssDarkTheme": {
+    "message": "Custom CSS for Dark Themes"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "clear": {
+    "message": "Clear"
+  },
+  "customBlockList": {
+    "message": "Custom block list"
+  },
+  "customBlockListLegend": {
+    "message": "will block all websites on this list"
+  },
+  "blockList": {
+    "message": "Block list"
+  },
+  "help": {
+    "message": "Help"
+  },
+  "stopFacebookTimeline": {
+    "message": "Stop Facebook Timeline (News Feed)"
+  },
+  "facebookEmoticonsCheetSheet": {
+    "message": "Facebook Emoticons Cheet Sheet"
+  },
+  "facebookTimeCounter": {
+    "message": "Show time spend on Facebook"
+  },
+  "hintClickjacking": {
+    "message": "Block hidden like buttons on any websites"
+  },
+  "hintBlockSeen": {
+    "message": "Your friends will not know you've read their message"
+  },
+  "hintBlockTypingChat": {
+    "message": "Your friends will not be able to know when you're typing a message"
+  },
+  "hintBlockTypingComment": {
+    "message": "Your friends will not be able to know when you're typing a comment"
+  },
+  "hintBlockFacebookPixel": {
+    "message": "The Facebook pixel is a piece of JavaScript code for website that enables webmaster to measure, optimize and build audiences for ad campaigns"
+  },
+  "hintStopFacebookTimeline": {
+    "message": "Your News Feed will stop loading new contents, keep you focus on your work"
+  },
+  "hintFacebookTimeCounter": {
+    "message": "Show a clock to see how much time you spend on Facebook"
+  },
+  "about": {
+    "message": "About"
+  },
+  "followMe": {
+    "message": "Follow me"
+  },
+  "loadFromUrl": {
+    "message": "Load from URL"
+  },
+  "load": {
+    "message": "Load"
+  },
+  "invalidRequestBlocked": {
+    "message": "Invalid request has been blocked to prevent Self-XSS!"
+  },
+  "blockSelfXSS": {
+    "message": "Block Self-XSS on Facebook"
+  },
+  "updateMessage": {
+    "message": "{appName} has just updated to version {appVersion}. Click here to see the changes in this release!"
+  },
+  "upgradeToPremium": {
+    "message": "Upgrade to Premium"
+  },
+  "context_menu_help": {
+    "message": "Help"
+  },
+  "rank": {
+    "message": "Rank"
+  },
+  "gender": {
+    "message": "Gender"
+  },
+  "conversations": {
+    "message": "Conversations"
+  },
+  "male": {
+    "message": "Male"
+  },
+  "female": {
+    "message": "Female"
+  },
+  "facebookKount": {
+    "message": "Facebook Kount"
+  },
+  "premiumAccess": {
+    "message": "Access to Premium areas"
+  },
+  "context_menu_changelog": {
+    "message": "View changelog"
+  },
+  "facebookLoginError": {
+    "message": "You are not logged in Facebook"
+  },
+  "userInfo": {
+    "message": "User Information"
+  },
+  "accountType": {
+    "message": "Account Type"
+  },
+  "freeTools": {
+    "message": "Free Tools"
+  },
+  "sponsor": {
+    "message": "Sponsor"
+  },
+  "context_menu_change_language": {
+    "message": "Change language"
+  },
+  "context_menu_change_hotkey": {
+    "message": "Change hotkey"
+  },
+  "showUpdateNotification": {
+    "message": "Show update notification"
+  },
+  "facebookCheckinBlockedNotify": {
+    "message": "The request has blocked due to reveal your location. Change the privacy options if you want to continue!"
+  },
+  "blockFacebookAutoCheckin": {
+    "message": "Block auto check-in"
+  },
+  "hintBlockFacebookAutoCheckin": {
+    "message": "Stop Facebook from auto-sharing your location"
+  },
+  "blockMalwareFileNotify": {
+    "message": "The download process was blocked due to detection of dangerous files"
+  },
+  "premiumLoginErrorNotify": {
+    "message": "Login Error! Please send me an email to: junookyo@gmail.com"
+  },
+  "makedonation": {
+    "message": "Make a Donation"
+  },
+  "readmore": {
+    "message": "Read more..."
+  },
+  "mutual_friends": {
+    "message": "Mutual Friends"
+  },
+  "actions": {
+    "message": "Actions"
+  },
+  "friends_made_in_year_on_facebook": {
+    "message": "Friends made in year on Facebook"
+  },
+  "who_is_online_on_facebook": {
+    "message": "Who is online on Facebook"
+  },
+  "facebook_messenger_color_changer": {
+    "message": "Facebook Messenger Color Changer"
+  },
+  "facebook_messenger_history": {
+    "message": "Facebook Messenger History"
+  },
+  "notificationCryptocurrencyMining": {
+    "message": "Cryptocurrency mining script was found. The request has been blocked!"
+  },
+  "cryptocurrencyMining": {
+    "message": "Block Cryptocurrency mining script"
+  },
+  "facebook_analytics": {
+    "message": "Facebook Analytics"
+  },
+  "facebook_avatar_guard": {
+    "message": "Facebook Profile Picture Guard"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "removeFbclid": {
+    "message": "Remove Facebook Click Identifier (fbclid) parameter from links"
+  },
+  "whatNewIn": {
+    "message": "What's New In"
+  },
+  "FacebookShareButton": {
+    "message": "Share with your friends"
+  },
+  "fiveStarReviewButton": {
+    "message": "Love it? Give me a five-star rating!"
+  },
+  "joinUs": {
+    "message": "Join Us"
+  },
+  "buyMeCoffee": {
+    "message": "Buy Me a Coffee"
+  },
+  "profilePictureGuardInfo": {
+    "message": "This feature will turn on a small blue shield under your profile picture. When the shield is enabled, people will unable to click on your profile picture to download. People will also unable to take a screenshot of your profile picture on mobile. Note: technical people still can download the image by using developer tools!"
+  },
+  "btnSeeOnMyProfile": {
+    "message": "See On My Profile"
+  },
+  "btnEnableProfilePictureGuard": {
+    "message": "Enable Profile Picture Guard"
+  },
+  "btnDisableProfilePictureGuard": {
+    "message": "Disable Profile Picture Guard"
+  }
+}
